@@ -1,7 +1,6 @@
 # jpa03-WadeVaresio
 
 
-<<<<<<< HEAD
 Repo: https://github.com/ucsb-cs156-w21/jpa03-WadeVaresio
 
 * TODO: Correct the links to app on Heroku below, 
