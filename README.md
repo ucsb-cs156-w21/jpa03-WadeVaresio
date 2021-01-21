@@ -3,7 +3,7 @@
 
 Repo: https://github.com/ucsb-cs156-w21/jpa03-WadeVaresio
 
-On Heroku: https://ucsb-wadevaresio-dsr-minimal.herokuapp.com/
+On Heroku: https://jpa03-wadevaresio.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-wadevaresio
 
